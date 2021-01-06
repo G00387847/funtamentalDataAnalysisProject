@@ -15,9 +15,55 @@ In this project you must perform and explain simple linear regression using Pyth
 on the powerproduction dataset available on Moodle. The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis.
 Your submission must be in the form of a git repository containing, at a minimum, the
 following items:
-1. Jupyter notebook that performs simple linear regression on the data set.
-2. In that notebook, an explanation of your regression and an analysis of its accuracy.
-3. Standard items in a git repository such as a README.
+- Jupyter notebook that performs simple linear regression on the data set.
+- In that notebook, an explanation of your regression and an analysis of its accuracy.
+- Standard items in a git repository such as a README.
 To enhance your submission, you might consider comparing simple linear regression to
 other types of regression on this data set. Rest assured, all the above concepts will be
 explored in lecture videos and other materials in the coming semester.
+
+##Packages use for the Project
+The following packages were used to run statistical analysis and draw grpahs for this project.
+import matplotlib.pyplot as plt # use for plotting graphs
+
+import pandas as pd # This is use for data manipulation and analysis
+
+import numpy as np # It's use for numerical multi-dimensional arrays
+
+plt.style.use("ggplot") # use for plotting graph style
+
+- use for bigger plots
+plt.rcParams["figure.figsize"] = (18,10) 
+
+- Make matplotlib show interactive plots 
+%matplotlib inline  
+
+
+Python https://www.python.org/downloads/
+
+Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+
+iPython https://ipython.org/ - it an interactive command-line terminal for Python.
+
+Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+
+Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
+
+References
+
+
+## References:
+
+- Allison training course https://alison.com/topic/learn/95538/linear-regression#course-plan
+
+- RealPython https://realpython.com/linear-regression-in-python/
+
+- Github https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/simple-linear-regression.ipynb
+
+- GMIT lecture video https://web.microsoftstream.com/video/24fb96b4-cc6c-43e9-987b-5ab44b52cfc5
+
+- RealPython https://realpython.com/logistic-regression-python/
+
+ - Investopedia  www.investopedia.com
+ 
+ - wikipedia https://en.wikipedia.org/wiki/Linear_regression#:~:text=In%20statistics%2C%20linear%20regression%20is,as%20dependent%20and%20independent%20variables).
