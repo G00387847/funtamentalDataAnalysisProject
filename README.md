@@ -22,21 +22,7 @@ To enhance your submission, you might consider comparing simple linear regressio
 other types of regression on this data set. Rest assured, all the above concepts will be
 explored in lecture videos and other materials in the coming semester.
 
-##Packages use for the Project
-The following packages were used to run statistical analysis and draw grpahs for this project.
-import matplotlib.pyplot as plt # use for plotting graphs
-
-import pandas as pd # This is use for data manipulation and analysis
-
-import numpy as np # It's use for numerical multi-dimensional arrays
-
-plt.style.use("ggplot") # use for plotting graph style
-
-- use for bigger plots
-plt.rcParams["figure.figsize"] = (18,10) 
-
-- Make matplotlib show interactive plots 
-%matplotlib inline  
+## Packages use for the Project
 
 
 Python https://www.python.org/downloads/
@@ -49,7 +35,9 @@ Numpy http://www.numpy.org/ - is the fundamental package for scientific computin
 
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
 
-References
+Pandas https://pandas.pydata.org/
+
+Matplotlib https://matplotlib.org/
 
 
 ## References:
