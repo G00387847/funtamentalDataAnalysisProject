@@ -1,6 +1,6 @@
 # funtamentalDataAnalysisProject
 
-Main porject is on master
+fundamentalDataAnalysisProject is on master branch on main icon
 
 # Introduction
 ***
