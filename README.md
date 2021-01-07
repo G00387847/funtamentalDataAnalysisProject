@@ -1,5 +1,7 @@
 # funtamentalDataAnalysisProject
 
+Main porject is on master
+
 # Introduction
 ***
 Wind energy has emerged as a promising alternative source for overcoming the energy crisis in the world. Wind power based energy is one of the most rapidly growing areas among the renewable energy sources and will continue to do so because of the growing concern about sustainability and emission reduction requirements. The uncertain nature of wind and high penetration of wind energy in power systems are a big challenge to the reliability and stability of these systems. To make wind energy a reliable source, accurate models for predicting the power output and performance monitoring of wind turbines are needed. 
